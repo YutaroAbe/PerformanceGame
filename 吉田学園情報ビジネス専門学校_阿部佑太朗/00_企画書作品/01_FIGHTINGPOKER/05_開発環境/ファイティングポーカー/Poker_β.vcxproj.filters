@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Poker">
+      <UniqueIdentifier>{0210a79a-e602-44e5-8cfc-752f367b7dfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Poker">
+      <UniqueIdentifier>{10425456-a3e6-4590-b9d7-55dfcd4963a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\main">
+      <UniqueIdentifier>{c1894c68-e98d-454e-83e7-fa03646afc39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\main">
+      <UniqueIdentifier>{43cfd973-d391-4c12-8dbb-332a9dda35b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Battle">
+      <UniqueIdentifier>{9bc7e852-2031-42e5-a1da-0b5e4a3ea321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Battle">
+      <UniqueIdentifier>{153eb368-e425-43ce-ac44-71b674fd269c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Select">
+      <UniqueIdentifier>{4a317c43-8110-4052-a43b-c51d6a049056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Select">
+      <UniqueIdentifier>{c804ccce-5036-47d7-847f-73f9d480fde7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3DUi.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="cardModel.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="meshField.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShow.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="poker.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="ui.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="gamepad.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="battle.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="meshSphere.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="pause.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="pausemenu.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="meshDome.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="meshBattleField.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="gamefade.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>ソース ファイル\main</Filter>
+    </ClCompile>
+    <ClCompile Include="rule.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="rulebook.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="select.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="select2D.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="credit.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="hpGage.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="spGage.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="message.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="bg.cpp">
+      <Filter>ソース ファイル\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="particle.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="textureanim.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="status.cpp">
+      <Filter>ソース ファイル\Poker</Filter>
+    </ClCompile>
+    <ClCompile Include="gameobject.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="rulePause.cpp">
+      <Filter>ソース ファイル\Battle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3DUi.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="cardModel.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="meshField.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShow.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="poker.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="gamepad.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="battle.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="meshSphere.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="pause.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="pausemenu.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="meshDome.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="meshBattleField.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="gamefade.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ヘッダー ファイル\main</Filter>
+    </ClInclude>
+    <ClInclude Include="rule.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="rulebook.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="select.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="select2D.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="credit.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="hpGage.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="spGage.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="bg.h">
+      <Filter>ヘッダー ファイル\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="particle.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="textureanim.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="status.h">
+      <Filter>ヘッダー ファイル\Poker</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobject.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="rulePause.h">
+      <Filter>ヘッダー ファイル\Battle</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
