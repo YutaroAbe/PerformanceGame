@@ -1,0 +1,49 @@
+ITEM_SET	
+
+	POS = 200 50 100
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET	
+
+	POS = -0 50 200
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET	
+
+	POS = -0 50 1300
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET	
+
+	POS = -430 50 4300
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET	
+
+	POS = 430 50 4300
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END

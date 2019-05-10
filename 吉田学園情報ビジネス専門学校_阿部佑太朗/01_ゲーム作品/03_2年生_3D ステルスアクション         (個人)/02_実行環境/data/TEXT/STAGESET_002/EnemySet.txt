@@ -1,0 +1,72 @@
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬ìG
+	#-------------------------------
+	POS = -147 0 4300
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 3
+	MOVELENGTH = 200
+	NONESPEED = 0.475
+	FOMSPEED = 1.375
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬ìG
+	#-------------------------------
+	POS = 147 0 4500
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 2
+	MOVELENGTH = 200
+	NONESPEED = 0.475
+	FOMSPEED = 1.375
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬ìG
+	#-------------------------------
+	POS = 300 0 4900
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 200
+	NONESPEED = 0.475
+	FOMSPEED = 1.375
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	ÉmÅ[É}Éã
+	#-------------------------------
+	POS = -300 0 4900
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 200
+	NONESPEED = 0.475
+	FOMSPEED = 1.375
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	ç≈å„ÇÃÉIÉuÉWÉFÉNÉg
+	#-------------------------------
+	POS = 0 0 5000
+	ROT = 0 0 0
+	LIFE = 10
+	TYPE = 99
+	MOVELENGTH = 00
+	AITYPE = 0
+	
+ENEMY_END

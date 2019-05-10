@@ -1,0 +1,9 @@
+3DPORIGON_SET	#	[3Dƒ|ƒŠƒSƒ“]
+
+	POS = 500 0 5000
+	SIZE = 150 200 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+3DPORIGON_END

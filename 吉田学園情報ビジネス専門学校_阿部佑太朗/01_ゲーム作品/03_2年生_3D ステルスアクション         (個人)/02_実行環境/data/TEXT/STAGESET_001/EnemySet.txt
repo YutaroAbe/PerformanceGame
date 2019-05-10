@@ -1,0 +1,225 @@
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬ìG
+	#-------------------------------
+	POS = 700 0 -100
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 3
+	MOVELENGTH = 200
+	NONESPEED = 0.475
+	FOMSPEED = 1.375
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	ÉnÉä
+	#-------------------------------
+	POS = -700 0 100
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 2
+	MOVELENGTH = 100
+	NONESPEED = 0.975
+	FOMSPEED = 1.275
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	íeåÇÇ¬ìG
+	#-------------------------------
+	POS = -700 0 1400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 200
+	NONESPEED = 0.875
+	FOMSPEED = 0.975
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	ÉnÉä
+	#-------------------------------
+	POS = -3720 0 1400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 2
+	MOVELENGTH = 200
+	NONESPEED = 0.675
+	FOMSPEED = 1.35
+	AITYPE = 4
+	
+ENEMY_END
+
+
+ENEMY_SET
+	#-------------------------------
+	#	íeÇåÇÇ¬Ç‚Ç¬
+	#-------------------------------
+	POS = 1350 0 400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 400
+	NONESPEED = 0.675
+	FOMSPEED = 0.95
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬ìG
+	#-------------------------------
+	POS = 1700 0 1020
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 3
+	MOVELENGTH = 200
+	NONESPEED = 0.675
+	FOMSPEED = 1.175
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	í èÌ
+	#-------------------------------
+	POS = 400 0 1220
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 300
+	NONESPEED = 0.675
+	FOMSPEED = 1.05
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	ÉnÉä
+	#-------------------------------
+	POS = -272 0 2500
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 2
+	MOVELENGTH = 600
+	NONESPEED = 0.775
+	FOMSPEED = 1.25
+	AITYPE = 3
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	â∫Ç…íeÇåÇÇ¬
+	#-------------------------------
+	POS = 172 0 2500
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 3
+	MOVELENGTH = 600
+	NONESPEED = 0.775
+	FOMSPEED = 1.25
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	í èÌ
+	#-------------------------------
+	POS = -1472 0 4200
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	í èÌ
+	#-------------------------------
+	POS = 1472 0 4200
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	â∫íe
+	#-------------------------------
+	POS = -472 0 5200
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 3
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	íe
+	#-------------------------------
+	POS = 472 0 5200
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	í èÌ
+	#-------------------------------
+	POS = -672 0 3900
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 2
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	í èÌ
+	#-------------------------------
+	POS = 672 0 3900
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 600
+	NONESPEED = 0.875
+	FOMSPEED = 1.25
+	AITYPE = 2
+	
+ENEMY_END

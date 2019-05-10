@@ -1,0 +1,104 @@
+ENEMY_SET
+	#-------------------------------
+	#	通常のロボット
+	#-------------------------------
+	POS = 500 0 -400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 200
+	NONESPEED = 0.375
+	FOMSPEED = 0.425
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	通常のロボット
+	#-------------------------------
+	POS = -500 0 -800
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 200
+	NONESPEED = 0.375
+	FOMSPEED = 0.425
+	AITYPE = 1
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	通常のロボット
+	#-------------------------------
+	POS = -500 0 -400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 0
+	MOVELENGTH = 500
+	NONESPEED = 0.375
+	FOMSPEED = 0.425
+	AITYPE = 3
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	弾を放つロボット
+	#-------------------------------
+	POS = -1300 0 1000
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 200
+	NONESPEED = 0.275
+	FOMSPEED = 0.425
+	AITYPE = 3
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	弾を放つロボット
+	#-------------------------------
+	POS = -1200 0 1400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 200
+	NONESPEED = 0.375
+	FOMSPEED = 0.425
+	AITYPE = 3
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	弾を放つロボット
+	#-------------------------------
+	POS = 0 0 2200
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 400
+	NONESPEED = 1.175
+	FOMSPEED = 0.875
+	AITYPE = 3
+	
+ENEMY_END
+
+ENEMY_SET
+	#-------------------------------
+	#	弾を放つロボット
+	#-------------------------------
+	POS = -250 0 2400
+	ROT = 0 0 0
+	LIFE = 4
+	TYPE = 1
+	MOVELENGTH = 120
+	NONESPEED = 1.15
+	FOMSPEED = 0.775
+	AITYPE = 1
+	
+ENEMY_END

@@ -1,0 +1,39 @@
+ITEM_SET
+#	[アイテム]
+	POS = 200 50 100
+	SIZE = 20 20 0
+	TYPE = 1
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET
+#	[アイテム]
+	POS = -0 50 500
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET
+#	[アイテム]
+	POS = 1126 50 1700
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
+
+ITEM_SET
+#	[アイテム]
+	POS = 926 50 1700
+	SIZE = 20 20 0
+	TYPE = 0
+	COL = 1.0 1.0 1.0 1.0
+	UV = 1.0 1.0
+
+ITEM_END
